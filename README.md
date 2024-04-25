@@ -67,7 +67,7 @@ to insert new data and `stack_pop` to pop it out. These invoke the `PUSHS` and `
 
 ### Uml Diagram
 
-<img src="" alt="uml">
+<img src="https://github.com/Biliator/ipp23interpret/blob/main/uml.png" alt="uml">
 
 ### Jumps
 
